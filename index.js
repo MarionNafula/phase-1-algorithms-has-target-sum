@@ -1,4 +1,5 @@
 
+
 function hasTargetSum(array, target) {
   // Write your algorithm here
     const seenNumbers = new Set(); // initialize an empty Set
